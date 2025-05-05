@@ -1,1 +1,43 @@
+[
+  {
+    "text": "Please welcome our chief guest.",
+    "intent": "welcome_guest"
+  },
+  {
+    "text": "Let's begin the cultural program.",
+    "intent": "event_start"
+  },
+  {
+    "text": "Can you introduce the next speaker?",
+    "intent": "introduce_speaker"
+  },
+  {
+    "text": "Tell the audience a quick fun fact.",
+    "intent": "share_fun_fact"
+  },
+  {
+    "text": "Please invite the principal to the stage.",
+    "intent": "invite_principal"
+  },
+  {
+    "text": "Say thank you to the audience.",
+    "intent": "thank_audience"
+  },
+  {
+    "text": "Wrap up the ceremony.",
+    "intent": "event_end"
+  },
+  {
+    "text": "Introduce the dance performance.",
+    "intent": "introduce_performance"
+  },
+  {
+    "text": "Welcome the next speaker with applause.",
+    "intent": "welcome_next_speaker"
+  },
+  {
+    "text": "Now let's move to the award distribution.",
+    "intent": "start_award_distribution"
+  }
+]
 
