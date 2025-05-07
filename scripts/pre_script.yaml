@@ -1,1 +1,17 @@
+event_name: Tech Conference 2025
+sections:
+  - id: intro
+    type: scripted
+    text: "Good morning everyone! Welcome to Tech Conference 2025."
+  - id: speaker_intro
+    type: scripted
+    text: "Next, we have Dr. Sharma with an exciting keynote on AI."
+  - id: qa
+    type: interactive
+    intent_map:
+      greeting: "Hi there, happy to answer your questions!"
+      thank_you: "You're most welcome."
+  - id: outro
+    type: scripted
+    text: "Thank you all for joining. Have a great day!"
 
